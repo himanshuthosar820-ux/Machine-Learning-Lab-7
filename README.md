@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- **Name:** Daksh Khandelwal
-- **Class:** B-B3
-- **Roll Number:** 45
+- **Name:** Himanshu Anil Thosar
+- **Class:** B-B1
+- **Roll Number:** 13
 
 ## Project Overview
 
